@@ -2,3 +2,6 @@ llama.cpp/
 _unsloth_sentencepiece_temp/
 model/
 outputs/
+/model/special_tokens_map.json
+/model/config.json
+/model/config.json
